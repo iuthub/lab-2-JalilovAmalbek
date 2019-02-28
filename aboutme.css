@@ -1,0 +1,30 @@
+body{
+
+	background-color:  grey;
+}
+
+
+.container{
+	margin: auto;
+}
+
+img { 
+  width: 10%; 
+}
+
+h1{
+	color: black;
+}
+
+ #time{
+
+	color: orange;
+}
+
+
+.mood{
+	color: green;
+}
+#Fun{
+	color: lawngreen ;
+}
